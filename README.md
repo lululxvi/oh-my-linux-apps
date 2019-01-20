@@ -42,10 +42,12 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 ## System
 - [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
+- [Sogou Input Method](https://pinyin.sogou.com/linux/) - Sogou Input Method is a popular Chinese input method.
 - [Synergy](https://symless.com/synergy) - Share one mouse and keyboard between multiple computers.
 - [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 ## Command Line Utilities
+- [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status.
 - [screen](https://linux.die.net/man/1/screen) - Screen is a full-screen window manager that multiplexes a physical terminal between several processes (typically interactive shells).
 - [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
