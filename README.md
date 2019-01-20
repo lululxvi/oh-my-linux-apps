@@ -1,8 +1,9 @@
 # oh-my-linux-apps
 
-I use Linux for everything. The Linux distributions I have used intensively are Ubuntu, Fedora and CentOS, and they are all good. Currently I am using [Deepin](https://www.deepin.org/en/), and I have to say it is beautiful and user-friendly. Some of my favorite softwares are listed below, see [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) for more awesome Linux softwares.
+I use Linux for everything. The Linux distributions I have used intensively are [Ubuntu](https://www.ubuntu.com/), [Fedora](https://getfedora.org/) and [CentOS](https://www.centos.org/), and they are all good. Currently I am using [Deepin](https://www.deepin.org/en/), and I have to say it is beautiful and user-friendly. Some of my favorite softwares are listed below, see [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) for more awesome Linux softwares.
 
 ## Internet
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - A popular Web Browser with a lot of plugins/apps.
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [Insync](https://www.insynchq.com) - Manage your Google Drive files straight from your Desktop.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
@@ -42,8 +43,12 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 - [Synergy](https://symless.com/synergy) - Share one mouse and keyboard between multiple computers.
-- [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 - [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+
+## Command Line Utilities
+- [screen](https://linux.die.net/man/1/screen) - Screen is a full-screen window manager that multiplexes a physical terminal between several processes (typically interactive shells).
+- [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 
 ## Configuration
 
