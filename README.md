@@ -3,8 +3,8 @@
 I use Linux for everything. The Linux distributions I have used intensively are [Ubuntu](https://www.ubuntu.com/), [Fedora](https://getfedora.org/) and [CentOS](https://www.centos.org/), and they are all good. Currently I am using [Deepin](https://www.deepin.org/en/), and I have to say it is beautiful and user-friendly. Some of my favorite softwares are listed below, see [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) for more awesome Linux softwares.
 
 ## Internet
-- [Firefox](https://www.mozilla.org/en-US/firefox/) - A popular Web Browser with a lot of plugins/apps.
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - A popular Web Browser with a lot of plugins/apps.
 - [Insync](https://www.insynchq.com) - Manage your Google Drive files straight from your Desktop.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 
