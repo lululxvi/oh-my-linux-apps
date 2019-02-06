@@ -1,10 +1,11 @@
-# the local area network to access the servers
-# none if not required 
+# the host name of the local area network to access the servers
+# None if not required 
 LAN = None
 # server host names
 servers = ['quanmaogua', 'baitiwu', 'chitu', 'wuzhui', 'dilu', 'jueying']
 
 # GPUs to be excluded
+# e.g., gpus_exclude = ['Quadro'] to exclude all GPUs whose name contains 'Quadro'
 gpus_exclude = ['Quadro']
 
 # the root folder to run your job
