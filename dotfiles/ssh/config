@@ -1,0 +1,30 @@
+Host dam
+  HostName ssh.dam.brown.edu
+  User ll61
+
+Host cs
+  HostName ssh.cs.brown.edu
+  User ll61
+
+Host ccv
+  HostName ssh.ccv.brown.edu
+  User ll61
+
+Host baitiwu
+  HostName apma-gpu-01
+  User ll61
+
+Host shifachi
+  HostName gpu-02
+  User ll61
+
+Host quanmaogua
+  HostName apma-gpu-04
+  User ll61
+
+Host jueying
+  HostName 10.2.91.84
+  User ll61
+
+Host *
+  ServerAliveInterval 60
