@@ -2,7 +2,7 @@
 # None if not required 
 LAN = None
 # server host names
-servers = ['quanmaogua', 'baitiwu', 'chitu', 'wuzhui', 'dilu', 'jueying']
+servers = ['shifachi', 'quanmaogua', 'baitiwu', 'chitu', 'wuzhui', 'dilu', 'jueying']
 
 # GPUs to be excluded
 # e.g., gpus_exclude = ['Quadro'] to exclude all GPUs whose name contains 'Quadro'
