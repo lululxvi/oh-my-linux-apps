@@ -1,18 +1,18 @@
 # the host name of the local area network to access the servers
-# None if not required 
+# None if not required
 LAN = None
 # server host names
-servers = ['shifachi', 'quanmaogua', 'baitiwu', 'chitu', 'wuzhui', 'dilu', 'jueying']
+servers = ["shifachi", "quanmaogua", "baitiwu", "chitu", "wuzhui", "dilu", "jueying"]
 
 # GPUs to be excluded
-# e.g., gpus_exclude = ['Quadro'] to exclude all GPUs whose name contains 'Quadro'
-gpus_exclude = ['Quadro']
+# e.g., gpus_exclude = ["Quadro"] to exclude all GPUs whose name contains "Quadro"
+gpus_exclude = ["Quadro"]
 
 # the root folder to run your job
-path_prefix = '~/scratch'
+path_prefix = "~/scratch"
 
 # the command to run your job
-cmd = '/opt/anaconda2/bin/python'
+cmd = "/opt/anaconda2/bin/python"
 
 # options for [rsync](https://linux.die.net/man/1/rsync)
 # files required to run the job, i.e., files will be pushed to the server
