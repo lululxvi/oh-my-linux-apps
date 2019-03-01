@@ -12,7 +12,7 @@ gpus_exclude = ["Quadro"]
 path_prefix = "~/scratch"
 
 # the command to run your job
-cmd = "/opt/anaconda2/bin/python"
+cmd = "/opt/anaconda3/bin/python"
 
 # options for [rsync](https://linux.die.net/man/1/rsync)
 # files required to run the job, i.e., files will be pushed to the server
