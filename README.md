@@ -10,6 +10,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 
 ## Development
 - [astyle](http://astyle.sourceforge.net/) - Artistic Style is a source code indenter, formatter, and beautifier for the C, C++, C++/CLI, Objective‑C, C# and Java programming languages.
+- [black](https://github.com/ambv/black) - Black is the uncompromising Python code formatter.
 - [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++!
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 - [fpm](https://fpm.readthedocs.io/en/latest/) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. 
