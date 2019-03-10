@@ -49,6 +49,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 
 ## Command Line Utilities
 - [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status.
+- [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool.
 - [screen](https://linux.die.net/man/1/screen) - Screen is a full-screen window manager that multiplexes a physical terminal between several processes (typically interactive shells).
 - [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
