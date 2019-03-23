@@ -33,6 +33,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 
 ## Office
 - [Aspell](http://aspell.net/) - a free software spell checker designed to replace Ispell.
+- [gnuplot](http://www.gnuplot.info/) - Gnuplot is a portable command-line driven graphing utility.
 - [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
 - [Pandoc](https://pandoc.org/) - Pandoc is a free and open-source software document converter, widely used as a writing tool and as a basis for publishing workflows.
 - [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) PDFtk is a cross-platform tool for manipulating Portable Document Format documents.
