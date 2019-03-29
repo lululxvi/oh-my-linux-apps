@@ -15,7 +15,7 @@ Host baitiwu
   User ll61
 
 Host shifachi
-  HostName gpu-02
+  HostName 10.2.91.18
   User ll61
 
 Host quanmaogua
