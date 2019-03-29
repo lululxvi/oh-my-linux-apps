@@ -4,12 +4,12 @@ LAN = None
 # server host names
 servers = [
     "saluzi",
-    "shifachi",
     "quanmaogua",
+    "shifachi",
     "baitiwu",
-    "chitu",
-    "wuzhui",
     "dilu",
+    "wuzhui",
+    "chitu",
     "jueying",
 ]
 
