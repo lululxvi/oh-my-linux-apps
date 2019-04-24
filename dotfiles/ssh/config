@@ -26,5 +26,9 @@ Host jueying
   HostName 10.2.91.84
   User ll61
 
+Host taishi
+  HostName 10.2.91.187
+  User ll61
+
 Host *
   ServerAliveInterval 60
