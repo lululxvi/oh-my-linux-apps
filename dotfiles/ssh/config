@@ -27,7 +27,7 @@ Host jueying
   User ll61
 
 Host taishi
-  HostName 10.2.91.187
+  HostName gpu07
   User ll61
 
 Host *
