@@ -3,11 +3,14 @@
 LAN = None
 # server host names
 servers = [
-    "taishi",
+    "apma-gpu-06",
+    "apma-gpu-07",
     "saluzi",
-    "quanmaogua",
-    "shifachi",
-    "baitiwu",
+    "apma-gpu-04",
+    "apma-gpu-03",
+    "apma-gpu-05",
+    "apma-gpu-02",
+    "apma-gpu-01",
     "dilu",
     "wuzhui",
     "chitu",

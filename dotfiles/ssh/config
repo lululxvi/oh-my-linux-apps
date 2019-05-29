@@ -14,20 +14,8 @@ Host baitiwu
   HostName apma-gpu-01
   User ll61
 
-Host shifachi
-  HostName 10.2.91.18
-  User ll61
-
-Host quanmaogua
-  HostName apma-gpu-04
-  User ll61
-
-Host jueying
-  HostName 10.2.91.84
-  User ll61
-
 Host taishi
-  HostName gpu07
+  HostName apma-gpu-07
   User ll61
 
 Host *
