@@ -22,7 +22,7 @@ servers = [
 gpus_exclude = ["Quadro"]
 
 # the root folder to run your job
-path_prefix = "~/scratch"
+path_prefix = "/users/ll61/scratch"
 
 # the command to run your job
 cmd = "/opt/anaconda3/bin/python"
