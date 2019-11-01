@@ -10,10 +10,6 @@ Host ccv
   HostName ssh.ccv.brown.edu
   User ll61
 
-Host baitiwu
-  HostName apma-gpu-01
-  User ll61
-
 Host taishi
   HostName apma-gpu-07
   User ll61
