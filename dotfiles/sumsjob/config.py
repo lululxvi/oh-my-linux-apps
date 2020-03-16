@@ -1,21 +1,8 @@
 # the host name of the local area network to access the servers
 # None if not required
-LAN = None
+LAN = "dam"
 # server host names
-servers = [
-    "apma-gpu-06",
-    "apma-gpu-07",
-    "saluzi",
-    "apma-gpu-04",
-    "apma-gpu-03",
-    "apma-gpu-05",
-    "apma-gpu-02",
-    "apma-gpu-01",
-    "dilu",
-    "wuzhui",
-    "chitu",
-    "jueying",
-]
+servers = ["gpu07", "gpu04", "apma-gpu-03", "apma-gpu-05", "wuzhui", "chitu", "jueying"]
 
 # GPUs to be excluded
 # e.g., gpus_exclude = ["Quadro"] to exclude all GPUs whose name contains "Quadro"
