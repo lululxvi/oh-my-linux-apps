@@ -1,5 +1,5 @@
 Host dam
-  HostName ssh.dam.brown.edu
+  HostName login.dam.brown.edu
   User ll61
 
 Host cs
