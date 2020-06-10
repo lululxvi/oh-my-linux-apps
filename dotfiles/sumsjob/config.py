@@ -2,7 +2,16 @@
 # None if not required
 LAN = "dam"
 # server host names
-servers = ["gpu07", "gpu04", "apma-gpu-03", "apma-gpu-05", "wuzhui", "chitu", "jueying"]
+servers = [
+    "hippocampus",
+    "gpu07",
+    "gpu04",
+    "apma-gpu-03",
+    "apma-gpu-05",
+    "wuzhui",
+    "chitu",
+    "jueying",
+]
 
 # GPUs to be excluded
 # e.g., gpus_exclude = ["Quadro"] to exclude all GPUs whose name contains "Quadro"
