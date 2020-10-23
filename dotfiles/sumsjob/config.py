@@ -4,10 +4,6 @@ LAN = "dam"
 # server host names
 servers = [
     "hippocampus",
-    "gpu07",
-    "gpu04",
-    "apma-gpu-03",
-    "apma-gpu-05",
     "wuzhui",
     "chitu",
     "jueying",

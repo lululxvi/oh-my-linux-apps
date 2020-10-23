@@ -2,10 +2,6 @@ Host dam
   HostName login.dam.brown.edu
   User ll61
 
-Host cs
-  HostName ssh.cs.brown.edu
-  User ll61
-
 Host ccv
   HostName ssh.ccv.brown.edu
   User ll61
