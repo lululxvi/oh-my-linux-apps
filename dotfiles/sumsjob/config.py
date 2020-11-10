@@ -3,8 +3,9 @@
 LAN = "dam"
 # server host names
 servers = [
-    "hippocampus",
+    "saluzi",
     "wuzhui",
+    "hippocampus",
     "chitu",
     "jueying",
 ]

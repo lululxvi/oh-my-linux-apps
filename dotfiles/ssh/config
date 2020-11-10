@@ -6,29 +6,5 @@ Host ccv
   HostName ssh.ccv.brown.edu
   User ll61
 
-Host hippocampus
-  User ll61
-
-Host gpu07
-  User ll61
-
-Host gpu04
-  User ll61
-
-Host apma-gpu-03
-  User ll61
-
-Host apma-gpu-05
-  User ll61
-
-Host wuzhui
-  User ll61
-
-Host chitu
-  User ll61
-
-Host jueying
-  User ll61
-
 Host *
   ServerAliveInterval 60
