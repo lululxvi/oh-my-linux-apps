@@ -47,6 +47,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Sogou Input Method](https://pinyin.sogou.com/linux/) - Sogou Input Method is a popular Chinese input method.
 - [Synergy](https://symless.com/synergy) - Share one mouse and keyboard between multiple computers.
 - [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+- [Ventoy](https://www.ventoy.net) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 
 ## Command Line Utilities
 - [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status.
