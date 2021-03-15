@@ -39,6 +39,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) PDFtk is a cross-platform tool for manipulating Portable Document Format documents.
 - [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
 - [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client.
+- [WPS](https://www.wps.com) - Complete office suite with PDF editor.
 - [Xmind](http://www.xmind.net/) - A mind mapping tool.
 
 ## System
