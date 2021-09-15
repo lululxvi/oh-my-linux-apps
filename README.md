@@ -51,6 +51,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 ## Command Line Utilities
+- [fish](https://fishshell.com/) - fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family.
 - [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status.
 - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool.
 - [screen](https://linux.die.net/man/1/screen) - Screen is a full-screen window manager that multiplexes a physical terminal between several processes (typically interactive shells).
