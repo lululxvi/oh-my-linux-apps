@@ -6,5 +6,9 @@ Host ccv
   HostName ssh.ccv.brown.edu
   User ll61
 
+Host dgx
+  HostName apma-nv-02.dam.brown.edu
+  User ll61
+
 Host *
   ServerAliveInterval 60
