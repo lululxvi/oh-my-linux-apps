@@ -21,6 +21,8 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Valgrind](http://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
 - [Vim](http://www.vim.org/download.php) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
+- [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
+- [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/) - Windows Terminal is a modern terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and Windows Subsystem for Linux (WSL).
 
 (Yes, I use Vim, Emacs or IDEs depending on my mood.)
 
