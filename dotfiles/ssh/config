@@ -1,3 +1,7 @@
+Host chitu
+  HostName chitu.seas.upenn.edu
+  User lu
+
 Host dam
   HostName login.dam.brown.edu
   User ll61
