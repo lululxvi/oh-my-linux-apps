@@ -1,13 +1,9 @@
 # the host name of the local area network to access the servers
 # None if not required
-LAN = "dam"
+LAN = None
 # server host names
 servers = [
-    "saluzi",
-    "wuzhui",
-    "hippocampus",
     "chitu",
-    "jueying",
 ]
 
 # GPUs to be excluded
@@ -15,7 +11,7 @@ servers = [
 gpus_exclude = []
 
 # the root folder to run your job
-path_prefix = "/users/ll61/scratch"
+path_prefix = "~/scratch"
 
 # the command to run your job
 cmd = "/opt/anaconda3/bin/python"
