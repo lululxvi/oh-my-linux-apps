@@ -4,6 +4,7 @@ LAN = None
 # server host names
 servers = [
     "chitu",
+    "dilu",
 ]
 
 # GPUs to be excluded
