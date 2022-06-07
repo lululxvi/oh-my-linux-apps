@@ -1,14 +1,17 @@
 # oh-my-linux-apps
 
-I use Linux for everything. The Linux distributions I have used intensively are [Ubuntu](https://www.ubuntu.com/), [Fedora](https://getfedora.org/) and [CentOS](https://www.centos.org/), and they are all good. Currently I am using [Deepin](https://www.deepin.org/en/), and I have to say it is beautiful and user-friendly. Some of my favorite softwares are listed below, see [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) for more awesome Linux softwares.
+I use Linux for everything. The Linux distributions I have used intensively are [Ubuntu](https://www.ubuntu.com/), [Fedora](https://getfedora.org/), [CentOS](https://www.centos.org/), and [Deepin](https://www.deepin.org/en/). Some of my favorite softwares are listed below, see [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) for more awesome Linux softwares.
 
 ## Internet
+
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - A popular Web Browser with a lot of plugins/apps.
 - [Insync](https://www.insynchq.com) - Manage your Google Drive files straight from your Desktop.
+- [rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage. It is a feature-rich alternative to cloud vendors' web storage interfaces.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 
 ## Development
+
 - [astyle](http://astyle.sourceforge.net/) - Artistic Style is a source code indenter, formatter, and beautifier for the C, C++, C++/CLI, Objective‑C, C# and Java programming languages.
 - [black](https://github.com/ambv/black) - Black is the uncompromising Python code formatter.
 - [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++!
@@ -24,9 +27,8 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
 - [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/) - Windows Terminal is a modern terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and Windows Subsystem for Linux (WSL).
 
-(Yes, I use Vim, Emacs or IDEs depending on my mood.)
-
 ## Graphics & Video
+
 - [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
@@ -34,6 +36,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 
 ## Office
+
 - [Aspell](http://aspell.net/) - a free software spell checker designed to replace Ispell.
 - [gnuplot](http://www.gnuplot.info/) - Gnuplot is a portable command-line driven graphing utility.
 - [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
@@ -45,6 +48,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Xmind](http://www.xmind.net/) - A mind mapping tool.
 
 ## System
+
 - [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 - [Sogou Input Method](https://pinyin.sogou.com/linux/) - Sogou Input Method is a popular Chinese input method.
@@ -53,6 +57,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 ## Command Line Utilities
+
 - [fish](https://fishshell.com/) - fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family.
 - [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status.
 - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool.
