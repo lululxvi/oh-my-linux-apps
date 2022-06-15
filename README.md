@@ -46,6 +46,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client.
 - [WPS](https://www.wps.com) - Complete office suite with PDF editor.
 - [Xmind](http://www.xmind.net/) - A mind mapping tool.
+- [Zotero](https://www.zotero.org) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 
 ## System
 
