@@ -44,4 +44,4 @@ files_pull = "--include='*.dat' --include='*.log' --exclude='*'"
 # When using sinfo to report the state of GPUs, do not display the following running
 # processes.
 # Emply list if no process to be excluded.
-sinfo_process_exclude = ["gnome-shell", "Xorg"]
+sinfo_process_exclude = ["Xorg", "firefox", "gnome-shell"]
