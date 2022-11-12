@@ -10,5 +10,9 @@ Host jueying
   HostName jueying.seas.upenn.edu
   User lu
 
+Host wuzhui
+  HostName wuzhui.seas.upenn.edu
+  User lu
+
 Host *
   ServerAliveInterval 60

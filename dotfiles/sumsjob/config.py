@@ -3,6 +3,7 @@ servers = [
     "chitu",
     "dilu",
     "jueying",
+    "wuzhui",
 ]
 # In some situations, you may need to first log in a local area network (LAN) to access
 # the servers. In this case, provide the host name of LAN. Also, the same home folder
