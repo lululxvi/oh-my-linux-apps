@@ -33,7 +33,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [FFmpeg](https://www.ffmpeg.org) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [GIMP](https://www.gimp.org/downloads) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
-- [Inkscape](https://inkscape.org) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
+- [Inkscape](https://inkscape.org) - A powerful, free design tool for you, whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 
 ## Office
 
@@ -53,6 +53,7 @@ I use Linux for everything. The Linux distributions I have used intensively are 
 - [CrystalDiskInfo](https://crystalmark.info) - a S.M.A.R.T. utility for reading and monitoring disk drive status.
 - [KeePass](https://www.keepass.info) - Windows focused password manager, with some cross platform support through Mono.
 - [Meld](http://meldmerge.org) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
+- [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 - [Sogou Input Method](https://pinyin.sogou.com/linux) - Sogou Input Method is a popular Chinese input method.
 - [Synergy](https://symless.com/synergy) - Share one mouse and keyboard between multiple computers.
 - [Ventoy](https://www.ventoy.net) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
