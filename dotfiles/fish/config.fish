@@ -6,4 +6,5 @@ if status is-interactive
 
     alias rm="rm -i"
     alias gitpullall="find . -type d -name .git -print -execdir git pull \;"
+    alias gitstatusall="find . -type d -name .git -print -execdir git status \;"
 end
