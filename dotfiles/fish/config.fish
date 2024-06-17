@@ -5,5 +5,5 @@ if status is-interactive
     set -x XLA_FLAGS "--xla_gpu_cuda_data_dir=/opt/anaconda3"
 
     alias rm="rm -i"
-    alias gitall="find . -type d -name .git -print -execdir git pull \;"
+    alias gitpullall="find . -type d -name .git -print -execdir git pull \;"
 end
