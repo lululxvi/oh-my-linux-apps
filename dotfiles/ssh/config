@@ -1,9 +1,9 @@
 Host chitu
-  HostName chitu.seas.upenn.edu
+  HostName 10.66.229.222
   User lu
 
 Host dilu
-  HostName dilu.seas.upenn.edu
+  HostName 10.66.97.145
   User lu
 
 Host jueying
@@ -11,8 +11,8 @@ Host jueying
   User lu
 
 Host wuzhui
-  HostName wuzhui.seas.upenn.edu
-  User lu
+  HostName 10.66.219.89
+  User lulu
 
 Host grace
   HostName grace.hpc.yale.edu
