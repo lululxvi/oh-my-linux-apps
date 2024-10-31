@@ -18,5 +18,9 @@ Host grace
   HostName grace.hpc.yale.edu
   User ll2247
 
+Host misha
+  HostName misha.ycrc.yale.edu
+  User ll2247
+
 Host *
   ServerAliveInterval 60
