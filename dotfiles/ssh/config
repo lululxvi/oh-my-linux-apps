@@ -1,5 +1,5 @@
 Host chitu
-  HostName 10.66.229.222
+  HostName 10.66.237.161
   User lu
 
 Host dilu
@@ -11,8 +11,12 @@ Host jueying
   User lu
 
 Host wuzhui
-  HostName 10.66.219.89
+  HostName 10.66.32.67
   User lulu
+
+Host bouchet
+  HostName bouchet.ycrc.yale.edu
+  User ll2247
 
 Host grace
   HostName grace.hpc.yale.edu
